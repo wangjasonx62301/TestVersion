@@ -1,0 +1,391 @@
+
+CrystalKnight.png
+size: 2048, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Wasteland_Mountains01
+  rotate: false
+  xy: 2, 764
+  size: 512, 256
+  orig: 512, 256
+  offset: 0, 0
+  index: -1
+Wasteland_Mountains02
+  rotate: false
+  xy: 2, 506
+  size: 512, 256
+  orig: 512, 256
+  offset: 0, 0
+  index: -1
+anim_attack
+  rotate: false
+  xy: 2, 173
+  size: 71, 73
+  orig: 71, 73
+  offset: 0, 0
+  index: 8
+anim_attack
+  rotate: false
+  xy: 1030, 649
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: 9
+anim_attack
+  rotate: false
+  xy: 1030, 595
+  size: 36, 52
+  orig: 36, 52
+  offset: 0, 0
+  index: 1
+anim_attack
+  rotate: false
+  xy: 1544, 792
+  size: 36, 52
+  orig: 36, 52
+  offset: 0, 0
+  index: 2
+anim_attack
+  rotate: false
+  xy: 1030, 541
+  size: 36, 52
+  orig: 36, 52
+  offset: 0, 0
+  index: 3
+anim_attack
+  rotate: false
+  xy: 755, 468
+  size: 52, 36
+  orig: 52, 36
+  offset: 0, 0
+  index: 11
+anim_attack
+  rotate: false
+  xy: 1774, 978
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: 10
+anim_attack
+  rotate: false
+  xy: 1819, 968
+  size: 36, 52
+  orig: 36, 52
+  offset: 0, 0
+  index: 4
+anim_attack
+  rotate: false
+  xy: 1857, 968
+  size: 36, 52
+  orig: 36, 52
+  offset: 0, 0
+  index: 5
+anim_attack
+  rotate: false
+  xy: 1895, 968
+  size: 36, 52
+  orig: 36, 52
+  offset: 0, 0
+  index: 6
+anim_attack
+  rotate: false
+  xy: 1933, 968
+  size: 36, 52
+  orig: 36, 52
+  offset: 0, 0
+  index: 7
+anim_coin
+  rotate: false
+  xy: 1092, 706
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: 3
+anim_coin
+  rotate: false
+  xy: 1182, 737
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: 2
+anim_coin
+  rotate: false
+  xy: 1544, 766
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: 1
+coin
+  rotate: false
+  xy: 1544, 766
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+anim_coin
+  rotate: false
+  xy: 137, 188
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: 4
+anim_goal
+  rotate: false
+  xy: 1030, 702
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: 1
+anim_goal
+  rotate: false
+  xy: 1544, 960
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: 2
+anim_goal
+  rotate: false
+  xy: 2, 111
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: 3
+anim_goal
+  rotate: false
+  xy: 75, 186
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: 4
+anim_goal
+  rotate: false
+  xy: 516, 380
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: 5
+anim_goal
+  rotate: false
+  xy: 581, 444
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: 6
+anim_walk
+  rotate: false
+  xy: 1544, 922
+  size: 54, 36
+  orig: 54, 36
+  offset: 0, 0
+  index: 1
+anim_walk
+  rotate: false
+  xy: 1606, 984
+  size: 54, 36
+  orig: 54, 36
+  offset: 0, 0
+  index: 2
+anim_walk
+  rotate: false
+  xy: 2, 73
+  size: 54, 36
+  orig: 54, 36
+  offset: 0, 0
+  index: 3
+anim_walk
+  rotate: false
+  xy: 137, 210
+  size: 54, 36
+  orig: 54, 36
+  offset: 0, 0
+  index: 4
+anim_walk
+  rotate: false
+  xy: 516, 342
+  size: 54, 36
+  orig: 54, 36
+  offset: 0, 0
+  index: 5
+anim_walk
+  rotate: false
+  xy: 643, 468
+  size: 54, 36
+  orig: 54, 36
+  offset: 0, 0
+  index: 6
+anim_walk
+  rotate: false
+  xy: 1544, 884
+  size: 54, 36
+  orig: 54, 36
+  offset: 0, 0
+  index: 7
+cloud01
+  rotate: false
+  xy: 516, 764
+  size: 512, 256
+  orig: 512, 256
+  offset: 0, 0
+  index: -1
+cloud02
+  rotate: false
+  xy: 2, 248
+  size: 512, 256
+  orig: 512, 256
+  offset: 0, 0
+  index: -1
+cloud03
+  rotate: false
+  xy: 516, 506
+  size: 512, 256
+  orig: 512, 256
+  offset: 0, 0
+  index: -1
+cloud04
+  rotate: false
+  xy: 1030, 764
+  size: 512, 256
+  orig: 512, 256
+  offset: 0, 0
+  index: -1
+decoration01
+  rotate: false
+  xy: 643, 454
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+decoration02
+  rotate: false
+  xy: 809, 481
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+decoration03
+  rotate: false
+  xy: 516, 251
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+idle
+  rotate: false
+  xy: 1662, 984
+  size: 54, 36
+  orig: 54, 36
+  offset: 0, 0
+  index: 1
+knight
+  rotate: false
+  xy: 1662, 984
+  size: 54, 36
+  orig: 54, 36
+  offset: 0, 0
+  index: -1
+idle
+  rotate: false
+  xy: 2, 35
+  size: 54, 36
+  orig: 54, 36
+  offset: 0, 0
+  index: 2
+idle
+  rotate: false
+  xy: 193, 210
+  size: 54, 36
+  orig: 54, 36
+  offset: 0, 0
+  index: 3
+idle
+  rotate: false
+  xy: 516, 304
+  size: 54, 36
+  orig: 54, 36
+  offset: 0, 0
+  index: 4
+idle
+  rotate: false
+  xy: 699, 468
+  size: 54, 36
+  orig: 54, 36
+  offset: 0, 0
+  index: 5
+idle
+  rotate: false
+  xy: 1544, 846
+  size: 54, 36
+  orig: 54, 36
+  offset: 0, 0
+  index: 6
+idle
+  rotate: false
+  xy: 1718, 984
+  size: 54, 36
+  orig: 54, 36
+  offset: 0, 0
+  index: 7
+idle
+  rotate: false
+  xy: 249, 210
+  size: 54, 36
+  orig: 54, 36
+  offset: 0, 0
+  index: 8
+idle
+  rotate: false
+  xy: 516, 266
+  size: 54, 36
+  orig: 54, 36
+  offset: 0, 0
+  index: 9
+rock
+  rotate: false
+  xy: 516, 442
+  size: 63, 62
+  orig: 63, 62
+  offset: 0, 0
+  index: -1
+rock_edge
+  rotate: false
+  xy: 1582, 796
+  size: 16, 48
+  orig: 16, 48
+  offset: 0, 0
+  index: -1
+rock_middle
+  rotate: false
+  xy: 1971, 972
+  size: 16, 48
+  orig: 16, 48
+  offset: 0, 0
+  index: -1
+tile01
+  rotate: false
+  xy: 305, 215
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+tile02
+  rotate: false
+  xy: 1030, 508
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+tile03
+  rotate: false
+  xy: 2, 2
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+waterOverFlow
+  rotate: false
+  xy: 1092, 734
+  size: 88, 28
+  orig: 88, 28
+  offset: 0, 0
+  index: -1
